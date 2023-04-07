@@ -1,7 +1,7 @@
-# formationMIG
+# TrainingMIG
 <<<<<<< HEAD
 
-Je fais mon readme pour mettre du baratin
+I write my readme as usual
 
 =======
->>>>>>> parent of 5c51698 (remplir la liste)
+>>>>>>> parent of 5c51698 (fill the list)
